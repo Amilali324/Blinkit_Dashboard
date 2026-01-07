@@ -1,4 +1,4 @@
-📊 **Dashboard Overview: Blinkit Sales Analysis**
+📊<h1><strong>*Dashboard Overview: Blinkit Sales Analysis</strong></h1>
 
 This dashboard provides a 360-degree view of Blinkit's retail operations, focusing on sales trends, inventory distribution, and outlet efficiency.
 
